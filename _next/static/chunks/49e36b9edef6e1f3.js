@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,1661,e=>{"use strict";var i=e.i(43476);e.i(50711);var t=e.i(82045);let o=new t.ConvexReactClient("https://glad-basilisk-613.convex.cloud");function n({children:e}){return(0,i.jsx)(t.ConvexProvider,{client:o,children:e})}e.s(["Providers",()=>n])}]);
